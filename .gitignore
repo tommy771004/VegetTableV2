@@ -1,0 +1,27 @@
+# Backend
+native/Backend/bin/
+native/Backend/obj/
+native/Backend/appsettings.Development.json
+
+# Android
+native/Android/.gradle/
+native/Android/build/
+native/Android/app/build/
+native/Android/app/google-services.json
+native/Android/local.properties
+
+# iOS
+native/iOS/ProduceApp/Config.plist
+native/iOS/*.xcworkspace/xcuserdata/
+native/iOS/*.xcodeproj/xcuserdata/
+native/iOS/DerivedData/
+native/iOS/Pods/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
